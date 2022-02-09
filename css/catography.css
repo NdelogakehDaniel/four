@@ -1,0 +1,93 @@
+#large h1 {
+  padding-bottom: 2.5ex;
+  padding-top: 2ex;
+  margin: 0 5em 0 180px;
+}
+h1 {
+  font-size: 1.8em;
+  text-align: right;
+  margin-left: 200px;
+  margin-right: 4.5em;
+  padding: 1ex;
+    padding-top: 1ex;
+    padding-bottom: 1ex;
+  font-family: 'Georgia', serif;
+}
+#large #header {
+  color: #8DFFE4;
+}
+#header {
+  letter-spacing: -0.1ex;
+  color: white;
+}
+#large {
+  text-align: left;
+}
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 9pt;
+}
+#large #intro .links a.prcsMapLink {
+  font-size: 1.2em;
+  text-align: right;
+}
+#large #intro a {
+  font-weight: bold;
+}
+#content a, #comment a {
+  color: #F4BB4D;
+}
+a {
+  color: #F4BB4D;
+}
+#large #intro {
+  color: seagreen;
+}
+#large {
+  text-align: left;
+}
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 9pt;
+}
+#large #content {
+  background-color: #FDDABF;
+  background-image: url('img/header.html');
+  background-position: top left;
+  background-repeat: repeat-y;
+  padding: 10px 0;
+  overflow: visible;
+}
+#content {
+  position: relative;
+  width: 820px;
+  margin: 0 auto;
+  clear: both;
+}
+#large {
+  text-align: left;
+}
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 9pt;
+}
+#large #intro {
+  position: relative;
+  color: black;
+  background-color: #ffffff;
+  border: solid 1px #F4BB4D;
+  margin-left: -10px;
+  margin-right: -10px;
+  padding: 2ex 2em;
+  overflow: visible;
+  width: 786px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+#large .meta_ti {
+  font-weight: bold;
+}
+#large {
+  text-align: left;
+}
